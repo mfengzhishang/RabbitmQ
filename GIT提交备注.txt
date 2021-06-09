@@ -1,0 +1,8 @@
+1、TOMKEN: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
+
+2、将分支的代码合并到主分支上。
+	GIT合并步骤：
+	1、分支delvelop_sun提交修改信息。
+	2、合并develop代码，（处理冲突），再次提交分支delvelop_sun代码
+	3、切换develop分支(此时是local)，合并romote的delvelop_sun代码到develop分支(此时是local)
+	4、解决冲突，提交代码
